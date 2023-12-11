@@ -1,4 +1,3 @@
-conftest.py
 import yaml
 import pytest
 import random
